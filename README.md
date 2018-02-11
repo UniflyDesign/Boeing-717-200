@@ -1,6 +1,6 @@
 # Boeing-717-200
 
-This is the developing grounds for the upcoming Unifly Boeing 717-200. 
+This is the developing grounds for the upcoming Unifly Boeing 717-200. It is a plane add-on for X-Plane. 
 
 # Change log
 2/10/18: Inital upload. Plane is flyable, but not finished. If you got here from a Google search and you can't wait for it to be 
